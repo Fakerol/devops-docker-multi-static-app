@@ -1,0 +1,1 @@
+# devops-docker-multi-static-app
